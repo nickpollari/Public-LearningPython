@@ -1,6 +1,7 @@
 # Public-LearningPython
 
 Example: https://github.com/binder-examples/requirements
+Bad Link: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/requirements/master)
 
 ## Chapter 1: The Basics
 1. What is Python?
