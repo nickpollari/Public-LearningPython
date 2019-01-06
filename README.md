@@ -1,5 +1,7 @@
 # Public-LearningPython
 
+This project is intented to be a learning resource for students who wish to learn Python3. I may transform this into a book one day.
+
 Example: https://github.com/binder-examples/requirements
 Bad Link: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/requirements/master)
 
@@ -20,11 +22,10 @@ Bad Link: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2
   2.1 String
   2.2 Integer
   2.3 Float
-  2.4 Decimal
-  2.5 type built-in
+  2.4 type built-in
 3. String Formatting and Deep Dive
-4. Lists and Sets
-  4.1 List and Set Deep Dive
+4. Lists, Sets, and Tuples
+  4.1 Lists, Sets, and Tuples Deep Dive
 5. Dictionary
   5.1 Dictionary Deep Dive
 6. Basic Operators
