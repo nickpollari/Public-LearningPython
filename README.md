@@ -8,15 +8,15 @@ Bad Link: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2
 ## Chapter 1: The Basics
 1. What is Python?<br>
 2. What is an IDE?<br>
-3. Introduction to Jupyter Notebooks<br>
-&nbspc;&nbspc;3.1 Kernel<br>
-&nbspc;&nbspc;3.2 Toolbar<br>
+3. Introduction to Jupyter Notebooks<br>  
+&nbspc;&nbspc;3.1 Kernel<br>  
+&nbspc;&nbspc;3.2 Toolbar<br>  
 &nbspc;&nbspc;3.3 Input / Output cells<br>
 4. Object Oriented Programming vs Functional Programming<br>
 5. Python Files, Modules, Packages, and Folder Structure<br>
 
 ## Chapter 2: Hello World
-1. Print<br>
+1. Print<br>  
 &nbspc;&nbspc;1.1 stdout<br>
 2. Variables and Types<br>
 &nbspc;&nbspc;2.1 String<br>
