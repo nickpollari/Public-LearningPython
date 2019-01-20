@@ -2,6 +2,7 @@
 - Note the exercises
 
 - comments in code
+- range function
 
 
 Chapter 1:
