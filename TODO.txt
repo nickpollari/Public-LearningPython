@@ -3,6 +3,7 @@
 
 - comments in code
 - range function
+- make tracebacks not scary
 
 
 Chapter 1:
