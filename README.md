@@ -9,6 +9,8 @@ TODO:
 - [ ] Cover concept of ** and * before functions in Ch3
 - [x] Cover range before functions in Ch3
 - [x] Cover Multi-line Strings
+- [ ] %s magic syntax
+- [ ] Cover .join before functions in Ch3
 
 
 ## Chapter 1: The Basics
@@ -54,9 +56,7 @@ TODO:
 6. Built-In Expressions  
   6.1 Lambda  
   6.2 Map  
-  6.3 Filter  
-  6.4 Reduce  
-  6.5 Partial<br>
+  6.3 Filter<br>
 7. Classes & Objects  
   7.1 Class Inheritance<br>
 
