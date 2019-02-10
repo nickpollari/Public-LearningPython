@@ -4,6 +4,13 @@ This project is intented to be a learning resource for students who wish to lear
 
 Binder Link: [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nickpollari/Public-LearningPython/master)
 
+TODO:
+- [ ] PEP 8
+- [ ] Cover concept of ** and * before functions in Ch3
+- [x] Cover range before functions in Ch3
+- [x] Cover Multi-line Strings
+
+
 ## Chapter 1: The Basics
 1. What is Python?<br>
 2. What is an IDE?<br>
@@ -39,9 +46,11 @@ Binder Link: [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/
   3.2 Continue<br>
 4. Try & Except & Finally<br>
 5. Functions  
-  5.1 Using ? and ??  
-  5.2 Comments  
-  5.3 Doc Strings<br>
+  5.1 Function Syntax  
+  5.2 Arguments  
+  5.3 Using ?  
+  5.4 Comments  
+  5.5 Doc Strings<br>
 6. Built-In Expressions  
   6.1 Lambda  
   6.2 Map  
