@@ -7,10 +7,10 @@ Binder Link: [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/
 TODO:
 - [ ] PEP 8
 - [ ] Cover concept of ** and * before functions in Ch3
-- [x] Cover range before functions in Ch3
-- [x] Cover Multi-line Strings
-- [ ] %s magic syntax
-- [ ] Cover .join before functions in Ch3
+- [ ] Cover folder structure, module, package before Ch4, package --> module
+- [ ] Cover importing with alias before Ch4
+- [ ] Number all the sub sections in each notebook
+- [ ] Cover List Slicing more in-depth, ":"
 
 
 ## Chapter 1: The Basics
@@ -62,10 +62,10 @@ TODO:
 
 ## Chapter 4: Essential & Common Python Packages
 1. Datetime
-2. Collections
+2. Time
 3. Itertools
-4. Functools
-5. Time
+4. Collections
+5. Numpy
 
 ## Chapter 5: Pandas Introduction
 1. Series<br>
