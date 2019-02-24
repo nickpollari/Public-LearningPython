@@ -11,6 +11,7 @@ TODO:
 - [ ] Cover importing with alias before Ch4
 - [ ] Number all the sub sections in each notebook
 - [ ] Cover List Slicing more in-depth, ":"
+- [ ] Cover Numpy backend
 
 
 ## Chapter 1: The Basics
@@ -68,15 +69,16 @@ TODO:
 5. Numpy
 
 ## Chapter 5: Pandas Introduction
-1. Series<br>
-2. DataFrame<br>
-3. Read CSV / Write CSV<br>
-4. Selecting Data<br>
-5. Setting Data  
-  5.1 Setting a copy  
-  5.2 Views vs new Objects<br>
-6. Manipulating Data  
-  6.1 Operations<br>
+1. Pandas Overview<br>
+2. Series<br>
+3. DataFrame<br>
+4. Read CSV / Write CSV<br>
+5. Selecting Data<br>
+6. Setting Data  
+  6.1 Setting a copy  
+  6.2 Views vs new Objects<br>
+7. Manipulating Data  
+  7.1 Operations<br>
 
 ## Chapter 6: Fetching Financial Data
 
