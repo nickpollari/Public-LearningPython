@@ -83,15 +83,14 @@ TODO:
 1. Apply<br>
 2. Groupby<br>
 3. Pivot<br>
-4. Join / Merge<br>
+4. Join<br>
 5. Descriptive Statistics<br>
 
 ## Chapter 8: Plotting
 1. Introduction to Matplotlib<br>
-2. Plot Object Structure<br>
-3. Line Plots<br>
-4. Bar Plots<br>
-5. Colobars<br>
+2. Line Plots<br>
+3. Bar Plots<br>
+4. Colobars<br>
 
 ## Chapter 9: Working with Financial Data
 1. Plotting<br>
