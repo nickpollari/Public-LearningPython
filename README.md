@@ -4,14 +4,13 @@ This project is intented to be a learning resource for students who wish to lear
 
 Binder Link: [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nickpollari/Public-LearningPython/master)
 
+
 TODO:
+- [ ] Support Colab Launch
 - [ ] PEP 8
 - [ ] Cover concept of ** and * before functions in Ch3
-- [ ] Cover folder structure, module, package before Ch4, package --> module
-- [ ] Cover importing with alias before Ch4
 - [ ] Number all the sub sections in each notebook
-- [ ] Cover List Slicing more in-depth, ":"
-- [ ] Cover Numpy backend
+- [ ] Did I cover 'all'?
 
 
 ## Chapter 1: The Basics
@@ -22,7 +21,8 @@ TODO:
   3.2 Toolbar  
   3.3 Input / Output cells<br>
 4. Object Oriented Programming vs Functional Programming<br>
-5. Python Files, Modules, Packages, and Folder Structure<br>
+5. Python Folder Structure<br>
+6. Importing Packages<br>
 
 ## Chapter 2: Hello World
 1. Print  
@@ -69,16 +69,13 @@ TODO:
 5. Numpy
 
 ## Chapter 5: Pandas Introduction
-1. Pandas Overview<br>
+1. Pandas Overview  
+  1.1 DataFrame <br>
 2. Series<br>
-3. DataFrame<br>
-4. Read CSV / Write CSV<br>
-5. Selecting Data<br>
-6. Setting Data  
-  6.1 Setting a copy  
-  6.2 Views vs new Objects<br>
-7. Manipulating Data  
-  7.1 Operations<br>
+3. Read CSV / Write CSV<br>
+4. Manipulating Data  
+  4.1 Operations  
+  4.2 Looping Revisited<br>
 
 ## Chapter 6: Fetching Financial Data
 
@@ -86,9 +83,8 @@ TODO:
 1. Apply<br>
 2. Groupby<br>
 3. Pivot<br>
-4. Melt<br>
-5. Join / Merge<br>
-6. Descriptive Statistics<br>
+4. Join / Merge<br>
+5. Descriptive Statistics<br>
 
 ## Chapter 8: Plotting
 1. Introduction to Matplotlib<br>
