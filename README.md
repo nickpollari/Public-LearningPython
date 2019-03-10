@@ -10,7 +10,6 @@ TODO:
 - [ ] PEP 8
 - [ ] Cover concept of ** and * before functions in Ch3
 - [ ] Did I cover 'all'?
-- [ ] Shorten that ES csv
 - [ ] Update requirements
 
 
