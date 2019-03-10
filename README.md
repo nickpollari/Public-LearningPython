@@ -9,8 +9,9 @@ TODO:
 - [ ] Support Colab Launch
 - [ ] PEP 8
 - [ ] Cover concept of ** and * before functions in Ch3
-- [ ] Number all the sub sections in each notebook
 - [ ] Did I cover 'all'?
+- [ ] Shorten that ES csv
+
 
 
 ## Chapter 1: The Basics
@@ -80,22 +81,22 @@ TODO:
 ## Chapter 6: Fetching Financial Data
 
 ## Chapter 7: Pandas Intermediate
-1. Apply<br>
-2. Groupby<br>
-3. Pivot<br>
-4. Join<br>
-5. Descriptive Statistics<br>
+1. Conditional Selecting<br>
+2. Apply
+3. Groupby<br>
+4. Pivot<br>
+5. Concat and Join<br>
+6. Descriptive Statistics<br>
 
 ## Chapter 8: Plotting
 1. Introduction to Matplotlib<br>
 2. Line Plots<br>
-3. Bar Plots<br>
+3. Scatter Plots<br>
 4. Colobars<br>
 
 ## Chapter 9: Working with Financial Data
-1. Plotting<br>
-2. Doing Analysis<br>
-3. Markowitz Mean-Variance Optimization<br>
+1. Doing Analysis<br>
+2. Markowitz Mean-Variance Optimization<br>
 
 ## Appendix
 ### Multi Processing / Multi Threading / GIL
