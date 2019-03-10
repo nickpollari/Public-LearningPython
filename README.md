@@ -92,7 +92,6 @@ TODO:
 1. Introduction to Matplotlib<br>
 2. Line Plots<br>
 3. Scatter Plots<br>
-4. Colobars<br>
 
 ## Chapter 9: Working with Financial Data
 1. Doing Analysis<br>
