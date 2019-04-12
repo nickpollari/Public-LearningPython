@@ -1,6 +1,6 @@
 # Public-LearningPython
 
-This project is intented to be a learning resource for students who wish to learn Python3. I may transform this into a book one day.
+This project is intented to be a learning resource for students who wish to learn Python3. I may transform this into a book one day. Click on the Binder link below to launch the book.
 
 Binder Link: [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nickpollari/Public-LearningPython/master)
 
